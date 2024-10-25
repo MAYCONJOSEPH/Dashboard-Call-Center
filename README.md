@@ -1,0 +1,5 @@
+Dashboar de Call center.
+
+link interativo
+
+https://app.powerbi.com/view?r=eyJrIjoiMTE5Y2VkMTEtMzExZC00ZjRmLWE1NDAtNzUwODMyMjlhMGNjIiwidCI6IjRjM2I0MTEwLWVmN2UtNGRiZC05ZjM3LThjZTI4MDAwOGRhNCJ9
